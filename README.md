@@ -1,9 +1,9 @@
 ### 👋 Hello! I'm Juan Velasquez
 
-- 🔨 I'm currently working as a freelancer at Workana.com
+- 🔨 I'm currently working as a Electrical Engineer
 - 🌱 I like to learn new technologies
-- 💻 I like to program in Javascript and PHP 
-- 🤔 I'm looking for a good job
+- 💻 I like to program in Javascript and PHP
+- 🤔 If you can imagine it you can program it
 
 ## ⚡ Technologies
 
