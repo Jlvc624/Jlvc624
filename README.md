@@ -1,8 +1,9 @@
 ### 👋 Hello! I'm Juan Velasquez
 
-- 🔨 I'm currently working as a Electrical Engineer
+- 🔭 I'm currently working as a Electrical Engineer
+- 🔨 But I work as a freelance in web development
 - 🌱 I like to learn new technologies
-- 💻 I like to program in Javascript and PHP
+- 💻 I like to program in Javascript, PHP and Python
 - 🤔 If you can imagine it you can program it
 
 ## ⚡ Technologies
